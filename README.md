@@ -1,4 +1,4 @@
-About Me
+# About Me
 
 Hi, this is the Github repository for Andy Li, an experience data scientist working in Financial Services since 2014.
 I’m interested in machine learning algorithms, statistical modeling, advanced analytics, Python, SQL, etc. and I love using data to solve business problems
